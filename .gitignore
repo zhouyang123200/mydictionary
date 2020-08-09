@@ -33,5 +33,6 @@
 *.app
 
 .vscode/
+build/
 
 main
